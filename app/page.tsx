@@ -32,10 +32,10 @@ const WORDS: WordConfig[] = [
   },
   {
     id: 2,
-    word: 'JEAN',
-    clue: "Frère cadet de l'archidiacre, étudiant dissipé et fêtard (souvent appelé Jehan).",
+    word: 'JEHAN',
+    clue: "Frère cadet de l'archidiacre, étudiant dissipé et fêtard.",
     intersectionChar: 'A',
-    intersectionIndex: 2,
+    intersectionIndex: 3, // J-E-H-A-N
   },
   {
     id: 3,
@@ -378,7 +378,7 @@ export default function NotreDameMystery() {
       </div>
 
       <footer className="mt-4 text-stone-500 text-sm text-center">
-        <p>Restitution du 02/03/2025 - Notre-Dame de Paris - Victor Hugo</p>
+        <p>Fiche de révision interactive - Notre-Dame de Paris</p>
       </footer>
 
       {/* Correction Modal */}
