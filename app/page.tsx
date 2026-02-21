@@ -378,7 +378,7 @@ export default function NotreDameMystery() {
       </div>
 
       <footer className="mt-4 text-stone-500 text-sm text-center">
-        <p>Fiche de révision interactive - Notre-Dame de Paris</p>
+        <p>Restitution du 02/03/2025 - Notre-Dame de Paris - Victor Hugo</p>
       </footer>
 
       {/* Correction Modal */}
