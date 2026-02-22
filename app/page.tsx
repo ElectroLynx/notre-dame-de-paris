@@ -242,7 +242,7 @@ export default function NotreDameMystery() {
           Notre-Dame de Paris
         </h1>
         <p className="text-lg md:text-xl italic text-slate-700">
-          Le Mot Mystère
+          Le Mot Mystère par Victor Blosseville
         </p>
         <div className="h-1 w-32 bg-slate-900 mx-auto mt-4" />
       </header>
@@ -378,7 +378,7 @@ export default function NotreDameMystery() {
       </div>
 
       <footer className="mt-4 text-stone-500 text-sm text-center">
-        <p>Restitution du 02/03/2025 - Notre-Dame de Paris - Victor Hugo - Fait par Victor Blosseville</p>
+        <p>Restitution du 02/03/2026 - Notre-Dame de Paris de Victor Hugo - Victor Blosseville</p>
       </footer>
 
       {/* Correction Modal */}
@@ -434,3 +434,4 @@ export default function NotreDameMystery() {
     </main>
   );
 }
+
