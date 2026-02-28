@@ -40,14 +40,14 @@ const WORDS: WordConfig[] = [
   {
     id: 3,
     word: 'TRISTAN',
-    clue: "L'Hermite, prévôt des maréchaux, homme cruel et exécuteur des basses œuvres du roi.",
+    clue: "Homme du roi, prévôt des maréchaux, homme cruel et exécuteur des basses œuvres du roi.",
     intersectionChar: 'T',
     intersectionIndex: 0,
   },
   {
     id: 4,
     word: 'VICTORHUGO',
-    clue: "L'illustre auteur de ce roman monumental publié en 1831.",
+    clue: "L'illustre auteur de ce roman publié en 1831.",
     intersectionChar: 'H',
     intersectionIndex: 6,
   },
@@ -61,14 +61,14 @@ const WORDS: WordConfig[] = [
   {
     id: 6,
     word: 'QUASIMODO',
-    clue: "Le sonneur de cloches bossu, borgne et sourd, d'une force herculéenne.",
+    clue: "Le sonneur de cloches bossu, borgne et sourd, d'une grande force.",
     intersectionChar: 'D',
     intersectionIndex: 7, // Q-U-A-S-I-M-O-D-O
   },
   {
     id: 7,
     word: 'NOTREDAME',
-    clue: "Le véritable personnage principal du roman, cathédrale gothique de Paris.",
+    clue: "Le lieu principal du roman, cathédrale gothique de Paris.",
     intersectionChar: 'R',
     intersectionIndex: 3, // N-O-T-R-E-D-A-M-E
   },
@@ -89,7 +89,7 @@ const WORDS: WordConfig[] = [
   {
     id: 10,
     word: 'PIERRE',
-    clue: "Gringoire, poète et philosophe sans le sou, qui épouse la bohémienne pour la sauver.",
+    clue: "Poète et philosophe sans le sou, qui épouse la bohémienne pour la sauver.",
     intersectionChar: 'E',
     intersectionIndex: 5, // P-I-E-R-R-E
   },
